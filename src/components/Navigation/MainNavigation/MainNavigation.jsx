@@ -20,7 +20,7 @@ const MainNavigation = () => {
 
       <nav className={s.desktop}>
         <NavLinks />
-        <BtnToggleTheme />
+        {/* <BtnToggleTheme /> */}
       </nav>
 
       <Media query={{ maxWidth: 768 }}>
@@ -30,7 +30,7 @@ const MainNavigation = () => {
 
             <Logo className={s.mobile} />
 
-            <BtnToggleTheme className={s.mobile} />
+            {/* <BtnToggleTheme className={s.mobile} /> */}
           </>
         )}
       </Media>

@@ -12,25 +12,25 @@ const About = () => {
         <div className={s.about}>
           <div className={s.aboutDescription}>
             <h1 className={s.title}>
-              Know Who <b className={s.purple}>I'M</b>
+              Sobre <b className={s.purple}>Mí</b>
             </h1>
             <AboutTextCard />
           </div>
 
-          <div className={s.aboutImg}>
+          {/* <div className={s.aboutImg}>
             <img src={aboutPromoImg} alt="about" />
-          </div>
+          </div> */}
         </div>
 
         <h2 className={s.skills}>
-          Professional <b className={s.purple}>Skills</b>
+           <b className={s.purple}>Tecnologías / Herramientas</b>
         </h2>
         <TechSkills />
-
+{/* 
         <h2 className={s.githubActivity}>
           Days I <b className={s.purple}>Code</b>
         </h2>
-        <GithubActivity />
+        <GithubActivity /> */}
       </div>
     </BaseLayout>
   );

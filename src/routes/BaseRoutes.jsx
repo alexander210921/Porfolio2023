@@ -1,5 +1,6 @@
 import { lazy } from 'react';
 import { Route, Routes, useLocation } from 'react-router-dom';
+// import image from '../assets/imageProject/ggjenad.JPG'
 //modals
 import ModalProjectCard from '../scenes/Projects/ModalProjectCard/ModalProjectCard';
 //scenes

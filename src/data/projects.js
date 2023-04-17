@@ -1,194 +1,140 @@
 const data = [
   {
     id: '1',
-    title: 'Syntho',
+    title: 'Integración de tienda Shopify a ERP SAP Business One',
     description:
-      'Syntho is an electronic music education application. Connect with like minded users as you build your own custom profile, communicate and share music via the newsfeed.',
+      ' El proyecto que se propone es la integración de una tienda de Shopify con el sistema ERP SAP Business One. El objetivo principal de esta integración es asegurar una gestión de ventas y stock más eficiente y precisa. Con esta integración, se logra que las ventas que se realizan en la tienda de Shopify se registren automáticamente en SAP Business One, lo que significa una reducción significativa en el tiempo y los esfuerzos requeridos para realizar estas tareas de manera manual. Además, la sincronización del inventario entre ambas plataformas asegura que los productos disponibles en la tienda sean siempre actualizados y en tiempo real, lo que mejora la experiencia del cliente y reduce las posibilidades de errores y retrasos en la entrega.  Esta solución de integración también permite que los datos de los clientes se sincronicen automáticamente entre ambas plataformas, lo que facilita el seguimiento y la gestión de las ventas y las relaciones con los clientes. Además, se pueden generar informes detallados sobre las ventas, el inventario y las tendencias de compra, lo que proporciona una mayor visibilidad y control sobre el negocio. ',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671564532/portfolio/projects/Syntho/Screenshot_2022-12-20_at_21.26.17_1_c59hzo.jpg',
+      src: 'https://imgtr.ee/images/2023/04/11/nAhJB.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/syntho/id1615419392',
+      site: 'https://gjjeans.com/',
     },
     technologies: [
-      '#typescript',
-      '#react-native',
-      '#react-native-web',
-      '#mobx-state-tree',
-      '#expo',
-      '#i18next',
-      '#react-navigation',
-      '#sentry',
+      '#c#',
+      '#API-REST',
+      '#SAP',
+      '#ASP.NET',
+      '#SQL',    
     ],
   },
   {
     id: '2',
-    title: 'Minfin - Currency Rates',
+    title: 'App de Geolocalización',
     description:
-      'Minfin Currency - application with all necessary information about currency: from currency rates - to the nearest places where you can exchange currency in your city.',
+      'El proyecto que se propone es una aplicación móvil que tiene como funcionalidad principal detectar la ubicación del usuario y rastrear su recorrido en tiempo real para realizar mediciones de uso de gasolina en base a la distancia recorrida y otros factores. La aplicación utiliza tecnología GPS para obtener la ubicación del usuario y generar un mapa de su recorrido, que se almacena en una base de datos en línea. La información recopilada incluye la distancia recorrida, la velocidad promedio, el tipo de terreno, las condiciones climáticas, entre otros factores que influyen en el uso de gasolina del vehículo. La aplicación también cuenta con un sistema de medición de consumo de gasolina, que permite al usuario ingresar el modelo y las especificaciones de su vehículo para obtener una estimación más precisa del consumo de gasolina en base a los datos recopilados. Además, la aplicación puede generar informes detallados sobre el consumo de gasolina y otros datos relevantes, que pueden ser utilizados por los usuarios para optimizar su uso de combustible y reducir sus costos.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671563302/portfolio/projects/minfin/Screenshot_2022-12-20_at_21.06.43_vl5h6k.jpg',
+      src: 'https://imgtr.ee/images/2023/04/17/yjl0l.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/minfin-currency-rates/id1574863878',
+      site: 'https://imgtr.ee/images/2023/04/17/yjoEq.jpg',
     },
-    technologies: [
-      '#typescript',
-      '#react-native',
-      '#mobx-keystone',
-      '#i18next',
-      '#firebase-analytics',
+    technologies: [  
+      '#react-native',    
+      '#Redux',
+      '#react-navigation',
       '#google-maps',
+      '#Csharp',
+      '#SQL',
+      '#restapi',
+      '#SignalR',
+      "#background-actions"
     ],
   },
   {
     id: '3',
-    title: 'Outfitr',
+    title: 'Software ERP conectado a SAP Business One',
     description:
-      'A react native app with animations made with react-native-reanimated. The app is based on the Outfitr - Fashion UI Kit.',
+      'El proyecto consiste en un sistema de planificación de recursos empresariales (ERP, por sus siglas en inglés) con una amplia variedad de módulos. Estos módulos incluyen ventas, facturación, gestión de clientes y proveedores, finanzas, inventario, compras, producción, recursos humanos, logística, entre otros. He trabajado en el mantenimiento y la mejora continua del sistema, así como en la creación de nuevas funcionalidades en los distintos módulos mencionados. Para su implementación, se utilizó ASP.NET como lenguaje de programación para la parte del frontend y C# para el desarrollo del backend. Además, el ERP está conectado a través de SAP Business One, lo que permite una integración más eficiente con otras herramientas de gestión empresarial. También cabe destacar que este ERP tiene la capacidad de firmar electrónicamente documentos de ventas a través de SAT Guatemala, lo que garantiza la validez legal de dichos documentos y agiliza el proceso de facturación y contabilidad de la empresa. Esto demuestra mi conocimiento y experiencia en el uso de tecnologías de firma electrónica y en la implementación de soluciones empresariales que cumplen con los requisitos legales y fiscales de cada país. Este proyecto muestra mi capacidad para trabajar en un entorno de desarrollo complejo y en equipo, así como mi experiencia en el desarrollo de sistemas ERP de gran envergadura.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671562261/portfolio/projects/fashion/Screenshot_2022-12-20_at_20.45.27_peyqly.jpg',
+      src: 'https://imgtr.ee/images/2023/04/17/yjvm3.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://expo.dev/@v_snaichuk/rn-fashion?serviceType=classic&distribution=expo-go',
-      repo: 'https://github.com/vsnaichuk/fashion-app',
+      site: 'https://www.disdelsagt.com/MyBusiness/Home/Login',
+     // repo: 'https://github.com/vsnaichuk/fashion-app',
     },
     technologies: [
-      '#typescript',
-      '#react-native',
-      '#expo',
-      '#react-native-reanimated',
-      '#react-navigation',
+      '#ASP.NET',
+      '#Csharp',
+      '#LinQ',
+      '#Signal R',
+      '#RestAPI',
     ],
   },
   {
     id: '4',
-    title: 'Apiko Marketplace',
+    title: 'App RRHH',
     description:
-      'An online marketplace made with React. The project was developed on 8th Apiko Intensive.',
+      'El proyecto consiste en una aplicación móvil desarrollada en React Native que tiene como objetivo principal brindar herramientas a los colaboradores de una empresa para mejorar la gestión de sus pagos, contratos, balance, ausencias y asistencias, solicitudes de préstamos, créditos, pedidos y registro de horas extras y actividades. La aplicación ofrece una interfaz intuitiva y fácil de usar para que los colaboradores puedan acceder a información detallada sobre sus pagos, incluyendo sueldo, pagos extras y préstamos. Además, pueden visualizar su contrato de trabajo y balance, así como solicitar días de ausencia y ver su historial de asistencias. La aplicación también permite a los colaboradores solicitar préstamos y visualizar sus créditos. Además, pueden realizar pedidos a nombre de la empresa y registrar sus horas extras y actividades realizadas. Además de las funciones mencionadas anteriormente, la aplicación también cuenta con la capacidad de firmar digitalmente los pagos, lo que proporciona una mayor seguridad y eficiencia en el proceso de pago. Una vez que se ha completado un pago, la aplicación genera un PDF detallado que incluye información sobre el pago, como el monto, la fecha y los conceptos pagados, junto con la firma digital del colaborador. Este PDF puede ser guardado y compartido según sea necesario. La función de firma digital también permite que los colaboradores firmen electrónicamente cualquier otro documento relacionado con su trabajo, como contratos y acuerdos, lo que simplifica el proceso de firma y reduce el tiempo y los costos asociados con la firma en papel. En general, la aplicación ofrece una amplia gama de herramientas y características útiles para los colaboradores de una empresa, lo que les permite mejorar su eficiencia y productividad en el trabajo mientras se mantienen al día con la tecnología moderna de firma digital.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348072/portfolio/projects/react-marketplace/apiko-marketplace-lg_xppe9n.jpg',
+      src: 'https://imgtr.ee/images/2023/04/17/yj1q0.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
       site: 'https://apiko-marketplace-app-snaichuk.herokuapp.com/',
-      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
+     // repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
     },
     technologies: [
-      '#react',
-      '#redux',
-      '#socket.io',
+      '#reactNative',
+      '#redux',      
       '#scss',
-      '#formik',
-      '#react-window',
+      '#formik',      
       '#restapi',
+      '#Touch-Drawer',
+      '#PDFViewer',
     ],
   },
   {
     id: '5',
-    title: 'Places App',
+    title: 'Página web para presentación de catálogo de productos ',
     description:
-      'A MERN app to let users share their experience of places along with Details. It is user friendly and can be useful to many others.',
+      'El proyecto en el que colaboré consiste en la elaboración de una página web para una empresa que se dedica a la venta de productos en línea. La página web tiene como objetivo principal mostrar los productos disponibles para la venta y brindar información sobre la empresa. Para ello, se desarrolló una interfaz web atractiva y fácil de usar que permite a los usuarios navegar por los diferentes productos disponibles, ver imágenes y descripciones detalladas de los mismos, así como filtrar los productos por categoría y precio. Además, la página web incluye información sobre la empresa, como su historia, filosofía y valores, así como su ubicación y horario de atención al cliente. También se incluye un formulario de contacto para que los clientes puedan enviar preguntas o comentarios directamente a la empresa. La página web fue diseñada con un enfoque en la experiencia del usuario, lo que significa que se prestó atención a detalles como la velocidad de carga, la accesibilidad y la navegación intuitiva. Se trabajó en colaboración con un equipo de diseñadores y desarrolladores para asegurar que la página web cumpla con las necesidades y requerimientos de la empresa.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348070/portfolio/projects/mern-places/mern-places-lg_xf6zom.jpg',
+      src: 'https://imgtr.ee/images/2023/04/17/yjSDF.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://yourplaces-sv.netlify.app/',
-      repo: 'https://github.com/vsnaichuk/MERN-places',
+      site: 'https://www.disdelsa.com/',
+      
     },
     technologies: [
-      '#react',
-      '#nodejs',
-      '#express',
-      '#mongodb',
-      '#react-query',
-      '#react-transition-group',
-      '#mongoose',
-      '#jwt',
-      '#aws',
+      '#reactJS',
+      '#GraphQL',     
+      '#react-query', 
+      '#material-ui'
     ],
   },
   {
     id: '6',
-    title: 'eCommerce Mobile App',
+    title: 'ECommerce',
     description:
-      'A Mobile eCommerce application built with React Native that includes cart functionality, push notifications, user authentication and user orders',
+      'El proyecto consiste en un Ecommerce multicompañía para clientes registrados, diseñado para ofrecer una experiencia de compra personalizada y conveniente. La plataforma cuenta con una interfaz atractiva y fácil de usar que permite a los clientes registrados navegar por una amplia selección de productos, ordenarlos por categoría y filtrarlos por características específicas. Además, los clientes registrados tienen la opción de guardar sus productos favoritos y acceder a ellos fácilmente en futuras visitas a la plataforma. Una de las características más destacadas de este proyecto es la segmentación de precios, que permite mostrar precios específicos a cada cliente registrado en función de los acuerdos previos. La plataforma también es multicompañía, lo que permite a empresas con múltiples ubicaciones o marcas operar en la misma plataforma con cuentas específicas para cada una de ellas.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-shop/rn-shop-lg_fofglf.jpg',
+      src: 'https://imgtr.ee/images/2023/04/17/yjT3R.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://expo.dev/@v_snaichuk/online-shop-app',
-      repo: 'https://github.com/vsnaichuk/RN-shop',
+      site: 'https://asidelimpio.com/',
+      
     },
     technologies: [
       '#react-native',
-      'expo',
       '#redux',
-      '#redux-toolkit',
-      '#react-navigation',
-      '#nodejs',
-      '#express',
-      '#mongodb',
-    ],
-  },
-  {
-    id: '7',
-    title: 'Places Mobile App',
-    description:
-      'A Mobile application for sharing places that people visit from all over the world. Uses React Native, TypeScript, MobX and Native Device Features',
-    image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-places/rn-places-lg_ljyikm.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
-    },
-    links: {
-      site: 'https://expo.dev/@v_snaichuk/rn-places',
-      repo: 'https://github.com/vsnaichuk/RN-places',
-    },
-    technologies: [
-      '#react-native',
-      '#typescript',
-      '#expo',
-      '#mobx',
-      '#sqlite',
-      '#react-native-maps',
-      '#expo-location',
-    ],
-  },
-  {
-    id: '8',
-    title: 'Shopping Cart',
-    description:
-      'Simple eCommerce cart application built with React and TypeScript. Uses SWR hook to fetch the data from the API and Styled Components',
-    image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/react-shop-cart/rn-shop-cart-lg_w3qxn6.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
-    },
-    links: {
-      site: 'https://shopping-cart-sv.netlify.app/',
-      repo: 'https://github.com/vsnaichuk/React-ShoppingCart',
-    },
-    technologies: [
-      '#react',
-      '#typescript',
+      '#react-route',
       '#material-ui',
-      '#styled-components',
-      '#swr',
-      '#fakestoreapi',
     ],
   },
+ 
+
 ];
 
 export default data;
