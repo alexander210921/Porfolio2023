@@ -15,7 +15,8 @@ const ProjectCard = ({ id, image, title, description }) => {
           <LazyLoadImage
             alt="card-img"
             effect="blur"
-            src={image.src}
+            src={require(`../../../${image.src}`).default}
+            
             width="100%"
             style={{ minHeight: '10rem' }}
             placeholderSrc={image.placeholderSrc}
